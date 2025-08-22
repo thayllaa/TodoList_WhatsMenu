@@ -1,7 +1,7 @@
 # 📋 Todo-List App
 Uma aplicação web moderna para gerenciamento de tarefas, desenvolvida com **Next.js** e **React**.
 
-## Captura de Tela
+## 📸 Captura de Tela
 <img src="./public/images/TodoList_Screenshot.png" alt="App Screenshot" width="600"/>
 
 ---
