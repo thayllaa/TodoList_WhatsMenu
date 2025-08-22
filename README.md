@@ -1,4 +1,4 @@
-# 📋 Todo-List App
+# 📋 Todo-List _ WhatsMenu
 Uma aplicação web moderna para gerenciamento de tarefas, desenvolvida com **Next.js** e **React**.
 
 ## 📸 Captura de Tela
