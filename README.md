@@ -30,7 +30,6 @@ Uma aplicação web moderna para gerenciamento de tarefas, desenvolvida com **Ne
 - [React](https://react.dev/) → Biblioteca para construção da interface de usuário.
 - [TypeScript](https://www.typescriptlang.org/) → Tipagem estática para evitar erros de tempo de execução.
 - [Tailwind CSS](https://tailwindcss.com/) → Framework CSS _utility-first_ para estilização rápida e responsiva.
-- CSS → Estilos globais e utilitários.
 
 ---
 
