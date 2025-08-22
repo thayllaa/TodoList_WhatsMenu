@@ -34,8 +34,21 @@ Uma aplicação web moderna para gerenciamento de tarefas, desenvolvida com **Ne
 ---
 
 ## 🚀 Como Rodar o Projeto Localmente
-### Pré-requisitos
+### 🔍 Pré-requisitos
 Certifique-se de ter o **Node.js** e o **npm** instalados.
+
+1. Abra o terminal (ou Prompt de Comando, no Windows).
+Digite o seguinte comando e pressione Enter para verificar a versão do Node.js:
+```bash
+node -v
+```
+> A resposta deve ser a versão instalada, por exemplo: v18.17.0.
+
+2. Em seguida, digite este comando para verificar a versão do npm:
+```bash
+npm -v
+```
+> A resposta deve ser a versão instalada, por exemplo: 9.6.7.
 
 ### 📥 Instalação
 1. Clone o repositório para sua máquina local:
